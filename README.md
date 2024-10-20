@@ -9,4 +9,4 @@
 3.可靠性：保證在故障情況下數據不丟失，並能自動恢復正常運行。  
 
 # 功能分解圖
-![image](picture or gif url)
+![image]([picture or gif url](https://github.com/kolo47725577/hw3/blob/main/HW3.png))
