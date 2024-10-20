@@ -9,7 +9,7 @@
 3.可靠性：保證在故障情況下數據不丟失，並能自動恢復正常運行。  
 
 # 功能分解圖
-![image](https://github.com/kolo47725577/hw3/edit/main/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B.png)  
+![image](https://github.com/kolo47725577/hw3/blob/main/%E5%8A%9F%E8%83%BD%E5%88%86%E8%A7%A3%E5%9C%96.png)  
 
 # 使用案例圖
 ![image](https://github.com/kolo47725577/hw3/blob/main/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.png)
